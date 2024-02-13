@@ -17,5 +17,4 @@
 
 const countBy = (x, n) => [... new Array(n)].map((el, i) => (i+1) * x)
 
-
 console.log(countBy(2,5))
