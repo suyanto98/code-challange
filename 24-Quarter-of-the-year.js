@@ -1,5 +1,5 @@
 // Code-challange
-// 23 of 366 day
+// 24 of 366 day
 
 // const quarterOf = (month) => {
 //     if(month <= 3) return 1;
