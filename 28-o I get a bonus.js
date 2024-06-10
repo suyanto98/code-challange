@@ -1,5 +1,5 @@
 // Code-challange
-// 27 of 366 day
+// 28 of 366 day
 // https://www.codewars.com/kata/56f6ad906b88de513f000d96/solutions/javascript
 
 // function bonusTime(salary, bonus) {
