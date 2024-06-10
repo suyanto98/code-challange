@@ -1,6 +1,6 @@
 // Code-challange
 // 26 of 366 day
-// 
+// https://www.codewars.com/kata/58649884a1659ed6cb000072/solutions/javascript
 
 // function updateLight(current) { 
 //     if(current == 'red') return 'green'
