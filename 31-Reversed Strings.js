@@ -1,5 +1,5 @@
 // Code-challange
-// 30 of 366 day
+// 31 of 366 day
 // https://www.codewars.com/kata/5168bb5dfe9a00b126000018/solutions/javascript
 
 // function solution(str){
