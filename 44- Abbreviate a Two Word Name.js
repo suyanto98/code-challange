@@ -1,3 +1,7 @@
+// Code-challange
+// 44 of 366 day
+// https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3/solutions/javascript
+
 // function abbrevName(name){
 //     let result = '';
 //     for (let i = 0; i < name.length; i++) {
