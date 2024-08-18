@@ -1,6 +1,6 @@
 // Code-challange
 // 63 of 366 day
-// 
+// https://www.codewars.com/kata/5412509bd436bd33920011bc/solutions/javascript
 
 // function maskify(cc) {
 //     let result = ''
