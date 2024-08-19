@@ -10,9 +10,9 @@
 function sumTwoSmallestNumbers (numbers) {
     let n = numbers.length;
 
-    for (let i = 1; i < n; i++) {
-        let key = numbers[i];
-        let j = i - 1;
+    for (let i = 1; i < n; i++) { // 4
+        let key = numbers[i]; // 11
+        let j = i - 1; // 3 // 2 // 1 // 0 // -1
 
         while (j >= 0 && numbers[j] > key) {
             numbers[j + 1] = numbers[j];
@@ -26,3 +26,5 @@ function sumTwoSmallestNumbers (numbers) {
 }
 
 console.log(sumTwoSmallestNumbers([64, 25, 12, 22, 11])); //13
+
+//  11, 12, 22, 25, 64
