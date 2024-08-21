@@ -1,5 +1,5 @@
 // Code-challange
-// 66 of 366 day
+// 67 of 366 day
 // 
 
 // function friend(friends){
