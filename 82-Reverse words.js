@@ -13,20 +13,22 @@
 //     return result.join(' ')
 // }
 
-function reverseWords(str) {
+// function reverseWords(str) {
 
-    let strArray = str.split(' ')
-    let result = []
+//     let strArray = str.split(' ')
+//     let result = []
 
-    for (let i = 0; i < strArray.length; i++) {
-        let word = ''
-        for (let j = strArray[i].length - 1; j >= 0; j--) {
-            word += strArray[i][j]
-        }
-        result.push(word)
-    }
+//     for (let i = 0; i < strArray.length; i++) {
+//         let word = ''
+//         for (let j = strArray[i].length - 1; j >= 0; j--) {
+//             word += strArray[i][j]
+//         }
+//         result.push(word)
+//     }
 
-    return result.join(' ')
-}
+//     return result.join(' ')
+// }
+
+const reverseWords = (str) => str.split(' ').map((value) => value.split('').reverse().join('')).join(' ')
 
 console.log(reverseWords("This is an example!")); // "sihT si na !elpmaxe"
