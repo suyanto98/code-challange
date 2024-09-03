@@ -2,7 +2,6 @@
 // 85 of 366 day
 // 
 
-
 function SeriesSum(n) {
     if(n == 0) return "0.00"
 
