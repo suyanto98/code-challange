@@ -1,6 +1,6 @@
 // Code-challange
 // 83 of 366 day
-// 
+// https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-7&xids=completed&beta=false&order_by=popularity%20desc
 
 
 function removeSmallest(numbers) {
@@ -17,7 +17,7 @@ function removeSmallest(numbers) {
     return arr
 }
 
-console.log(removeSmallest([ 139, 227, 281, 45, 299, 279, 24, 84, 105, 381, 121, 151, 91, 232 ])); // [5, 3, 2, 4]
+console.log(removeSmallest([ 139, 227, 281, 45, 299, 279, 24, 84, 105, 381, 121, 151, 91, 232 ]));
 
 
 
